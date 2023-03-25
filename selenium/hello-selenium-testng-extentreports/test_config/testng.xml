@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Example Test Suite" >
+    <test name="Example Test">
+        <classes>
+            <class name="testscript.GoogleHomePage_Test"></class>
+        </classes>
+    </test>
+</suite>
